@@ -1,3 +1,3 @@
 # firstrepo
-THis is my first repository
+THis is my first repository. I am interested in open source.
 
